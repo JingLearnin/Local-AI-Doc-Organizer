@@ -1,0 +1,47 @@
+categories:
+  School:
+    keywords:
+      - lecture
+      - assignment
+      - exam
+      - calculus
+      - software engineering
+      - course
+      - homework
+  Career:
+    keywords:
+      - resume
+      - interview
+      - linkedin
+      - recruiter
+      - coop
+      - cover letter
+      - job
+  Engineering:
+    keywords:
+      - api
+      - database
+      - cloud
+      - docker
+      - system design
+      - python
+      - architecture
+  Finance:
+    keywords:
+      - bank
+      - invoice
+      - tuition
+      - tax
+      - payment
+      - receipt
+  Health:
+    keywords:
+      - workout
+      - sleep
+      - diet
+      - squat
+      - health
+
+settings:
+  default_category: Needs_Review
+  minimum_confidence: 0.6

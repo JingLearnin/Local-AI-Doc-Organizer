@@ -1,0 +1,1 @@
+Tuition payment receipt for the winter term. This file should be routed with other finance, invoice, and bank records.
